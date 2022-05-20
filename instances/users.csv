@@ -1,0 +1,3 @@
+u_name,u_password,u_is_admin
+admin,root,1
+rstaff,rstaff,0

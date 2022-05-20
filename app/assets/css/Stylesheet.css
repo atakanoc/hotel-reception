@@ -1,0 +1,179 @@
+.body-pane {
+    -fx-background-color: #121212;
+    -fx-alignment: center;
+}
+
+.table-view {
+    -fx-background-color: #121212;
+    /*-fx-border-color: transparent;*/
+    -fx-base: #121212;
+    -fx-control-inner-background: #121212;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: #bb86fc;
+    -fx-table-cell-border-color: transparent;
+}
+
+
+.table-view:hover .table-row-cell:filled:hover {
+    -fx-background-color: silver;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 35;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: transparent;
+    -fx-border-color:
+        transparent
+        transparent
+        derive(-fx-base, 80%)
+        transparent;
+    -fx-border-insets: 0 10 1 0;
+}
+
+.choice-box,
+.text-field {
+    -fx-background-color: #323232;
+    -fx-background-radius: 0;
+    -fx-text-fill: white;
+}
+
+.choice-box .context-menu {
+    -fx-background-color: #323232;
+}
+
+.choice-box > .label {
+    -fx-text-fill: white;
+}
+
+.choice-box .menu-item > .label {
+    -fx-text-fill: white;
+}
+
+.choice-box .menu-item:focused {
+    -fx-background-color: #bb86fc;
+}
+
+.date-picker {
+    -fx-border-color: #121212;
+    -fx-border-insets: 0;
+    -fx-border-width: 0;
+}
+
+.date-picker > .text-field {
+    -fx-text-fill: white;
+    -fx-background-color: #323232;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+    -fx-border-color: #121212;
+}
+
+.date-picker > .text-field:focused {
+    -fx-text-fill: white;
+}
+
+.date-picker > .arrow-button {
+    -fx-background-color: #121212;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+    -fx-border-color: #121212;
+}
+
+.date-picker > .arrow-button > .arrow {
+    -fx-background-color: #10DCC9;
+}
+
+.body-pane > .date-range, .body-pane > .search {
+    -fx-spacing: 10px;
+}
+
+.date-picker .cell {
+    -fx-background-color: #323232;
+    -fx-text-fill: white;
+}
+
+.date-picker .cell:hover {
+    -fx-background-color: #10DCC9;
+}
+
+.combo-box .context-menu {
+    -fx-background-color: #323232;
+}
+
+.check-box:selected > .box {
+    -fx-background-color: #121212;
+}
+
+.check-box > .box {
+    -fx-background-color: #121212;
+    -fx-border-color: white;
+}
+
+.check-box:selected > .box > .mark,
+.check-box:indeterminate  > .box > .mark {
+    -fx-background-color: white;
+}
+
+.combo-box {
+    -fx-background-color: #323232;
+    -fx-text-fill: white;
+}
+
+.combo-box .list-cell {
+     -fx-text-fill: white;
+     -fx-background-color: #323232;
+}
+
+.combo-box .arrow {
+    -fx-background-color: #10DCC9;
+}
+
+.combo-box *.scroll-bar:vertical {
+    -fx-background-color: #121212;
+}
+
+.combo-box *.scroll-bar:vertical *.increment-arrow,
+.combo-box *.scroll-bar:vertical *.decrement-arrow {
+    -fx-background-color: #10DCC9;
+}
+
+.combo-box *.scroll-bar:vertical *.increment-button,
+.combo-box *.scroll-bar:vertical *.decrement-button {
+    -fx-background-color: #121212;
+}
+
+.footer-pane {
+    -fx-alignment: center;
+}
+
+.context-menu {
+     -fx-background-color: #323232;
+     -fx-text-fill: white;
+}
+
+.context-menu .menu-item > .label {
+     -fx-text-fill: white;
+}
+
+.context-menu .menu-item:focused {
+    -fx-background-color: #10DCC9;
+}
+
+.details-pane {
+    -fx-background-color: #323232;
+    -fx-spacing: 10px;
+}
+
+
+.details-pane .label {
+    -fx-text-fill: white;
+    -fx-size: 20;
+}

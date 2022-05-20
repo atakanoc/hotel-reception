@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"hotelproject"},{"l":"hotelproject.controllers.db"},{"l":"hotelproject.controllers.objects"},{"l":"hotelproject.controllers.utils"},{"l":"hotelproject.views"}]

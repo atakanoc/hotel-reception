@@ -1,0 +1,6 @@
+* hexcode for background color: 1e1e1e
+* The login details box looks transparent but it is actually a tiny bit white, when you place it on top of the background it
+   makes itself visible.
+* Dimensions:
+	Main Menu: 775 x 658
+	Login: 476 x 610

@@ -1,0 +1,5 @@
+t_name,beds,r_size,has_view,has_kitchen,has_bathroom,has_workspace,has_tv,has_coffee_maker
+Single,1,35,0,0,1,0,1,1
+Double,2,45,0,1,1,0,1,1
+Triple,3,55,0,1,1,1,1,1
+Quad,4,70,1,1,1,1,1,1

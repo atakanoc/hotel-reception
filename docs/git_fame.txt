@@ -1,0 +1,23 @@
+
+Statistics based on HEAD
+Active files: 226
+Active lines: 128,487
+Total commits: 756
+
+Note: Files matching MIME type image, binary has been ignored
+
++------------------------+---------+---------+-------+--------------------+
+| name                   | loc     | commits | files | distribution (%)   |
++------------------------+---------+---------+-------+--------------------+
+| mdeboute               | 122,051 | 176     | 221   | 95.0 / 23.3 / 97.8 |
+| DrMagazi               | 1,648   | 98      | 27    |  1.3 / 13.0 / 11.9 |
+| Fabian Dacic           | 1,512   | 111     | 25    |  1.2 / 14.7 / 11.1 |
+| Cloe Magnien           | 1,429   | 80      | 23    |  1.1 / 10.6 / 10.2 |
+| yd222br@student.lnu.se | 999     | 154     | 37    |  0.8 / 20.4 / 16.4 |
+| Oscar Johansson        | 418     | 87      | 14    |  0.3 / 11.5 /  6.2 |
+| Martin Debouté         | 382     | 36      | 6     |  0.3 /  4.8 /  2.7 |
+| Hélder Monteiro        | 48      | 14      | 6     |  0.0 /  1.9 /  2.7 |
++------------------------+---------+---------+-------+--------------------+
+
+p.s: do not pay attention to the loc number for mdeboute (aka Martin Debouté), he was the scrum master of the project
+
