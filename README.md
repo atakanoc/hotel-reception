@@ -1,4 +1,4 @@
-# Hotel Reception Application
+# Hotel Reception Desktop App
 <img src="demo_assets/login.jpeg" width="400"/> 
 <img src="demo_assets/main_menu.jpeg" width="400"/>
 
