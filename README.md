@@ -1,5 +1,6 @@
 # Hotel Reception Application
-<img src="demo_assets/login.jpeg" width="400"/> <img src="demo_assets/main_menu.jpeg" width="400"/>
+<img src="demo_assets/login.jpeg" width="400"/> 
+<img src="demo_assets/main_menu.jpeg" width="400"/>
 
 ## Introduction
 A multi-platform desktop application designed for use by hotel staff for tasks such as booking of rooms.
